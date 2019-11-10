@@ -12,4 +12,4 @@ The idea is to apply SVM , KNN , Decision Tree and Logistic Regression for class
 The dataset contains many features i.e. attributes which may or may not responsible for the Prediction , thus by doing EDA on dataset we found the attributes which contributes more.
 After applying various preprocessing techniques (Label Encoding, One hot Encoding) on data we found that it has a very large set of attributes  or features that would probably cause underfitting! , Thus To avoid this we applied PCA on the data , Which would Basically reduce the no. of features and cover most of the variation in the dataset.
 
-To find more about it jump into the notebook : https://github.com/imshreyaa/ML-algorithms/blob/master/Sample_Skeleton-shreya.ipynb
+To find more about it jump into the notebook : https://github.com/imshreyaa/ML-algorithms/blob/master/Telecom.ipynb
